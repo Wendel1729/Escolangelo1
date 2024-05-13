@@ -8,3 +8,4 @@
 7 Tecle enter
 8 ainda no terminal; git config user.email <digite aqui seu email no Github
 9 tecle enter
+#
