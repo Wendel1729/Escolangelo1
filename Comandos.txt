@@ -1,0 +1,10 @@
+# como vincular um repositorio do GITHUB com o visual studio Code
+1 no GITHUB abra o repositorio e clique no botao CODE -> local -> copiar link do repositorio
+2 no visual code abra a pasta de seus projetos ( exemplo: Documentos/python/ )
+3 Abra o terminal o gite o comando: git clone <cole aqui o link copiado>
+4 tecle Enter
+5 no VS code abra a pasta clonada
+6 no terminal digite: git config user.name <digite aqui seu nome de usuario no Github
+7 Tecle enter
+8 ainda no terminal; git config user.email <digite aqui seu email no Github
+9 tecle enter
